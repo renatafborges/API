@@ -1,4 +1,4 @@
-package config
+package configs
 
 import (
 	"github.com/go-chi/jwtauth"
@@ -25,7 +25,7 @@ func LoadConfig(path string) (*conf, error) {
 	viper.AddConfigPath(path)
 	viper.SetConfigFile(".env")
 	viper.AutomaticEnv()
-	err := viper.ReadConfig()
+	err := viper.ReadInConfig()
 	if err != nil {
 		panic(err)
 	}
