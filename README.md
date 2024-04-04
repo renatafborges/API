@@ -1,5 +1,4 @@
 <h1 align="center">
-   <a href="#"> **UNDER CONSTRUCTION** </a>
    <a href="#"> APIS: CRUDS & AUTHENTICATION </a>
 </h1>
 
@@ -11,15 +10,6 @@
 	 Status: Finished
 </h4>
 
-<p align="center"> 
- <a href="#author">Author</a> • 
-
-</p>
-
-## How it works
-
-
-```
 ## Author
 Made with love by Renata Borges 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/renataborgestech)
 ---
