@@ -12,7 +12,6 @@
 </h4>
 
 <p align="center"> 
- <a href="#how-it-works">How it works</a> • 
  <a href="#author">Author</a> • 
 
 </p>
